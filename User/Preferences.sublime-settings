@@ -1,0 +1,8 @@
+{
+	"command": "toggle_side_bar",
+	"font_size": 12.0,
+	"keys":
+	[
+		"ctrl+s"
+	]
+}
